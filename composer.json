@@ -1,0 +1,17 @@
+{
+    "name": "TOKSWA/CCS06_Lab10",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "James Harold Anino",
+            "email": "anino.jamesharolde@auf.edu.ph"
+        }
+    ]
+}
